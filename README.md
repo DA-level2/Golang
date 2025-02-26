@@ -18,4 +18,4 @@
 - :book: **内容概览**：深入分析Go-Ethereum的源码结构，理解关键组件如区块链同步、交易处理和状态管理等的实现。
 - :white_check_mark:**预期成果**：学生能够理解并解释Go-Ethereum的核心功能和架构设计。
 - :writing_hand: **作业地址**：：在 #✅-golang大作业 晒结果
-- :hourglass:**预计时间**：20小时
+- :hourglass:**预计时间**：18小时
